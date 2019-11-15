@@ -1,1 +1,1 @@
-Utilities functions, classes, and modules developed by me.
+Utilities functions, classes, and modules
